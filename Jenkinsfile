@@ -1,5 +1,5 @@
 node {
   stage 'build'
   echo("hello world!");
-  echo("hello again!");
+  echo("hello again because pull requests!");
 }
